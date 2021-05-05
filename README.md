@@ -1,9 +1,9 @@
-- 👋 Ciao, sono @Nicco245
+- 👋 Hello, i'm @Nicco245
 - 📍  Based in Italy
-- 👀 Sono studente di 1° superiore indirizzo informatica
-- 🌱 Sto imparando il JavaScript e il C++
-- 💞️ Al momento sto lavorando da solo
-- 📫 Per contattarmi: Discord --> Nicco_ITA#0066
+- 👀 I'm a student of 9th grade computer technology 
+- 🌱 I'm learning JavaScript and C++
+- 💞️ I'm not cooperating at the moment
+- 📫 Contacts: Discord --> Nicco_ITA#0066
 
 <!---
 Nicco245/Nicco245 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
